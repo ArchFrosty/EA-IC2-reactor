@@ -1,4 +1,4 @@
-Evolutionary algorithm for creating IC2 nuclear reactor designs. Simulation is done using old version of https://github.com/MauveCloud/Ic2ExpReactorPlanner the code for this simulator is in the folder "simulator". Multithreaded evaluation of genomes for decent speed.
+Evolutionary algorithm for creating in Minecraft mod IndustrialCraft 2 nuclear reactor designs. Simulation is done using old version of https://github.com/MauveCloud/Ic2ExpReactorPlanner the code for this simulator is in the folder "simulator". Multithreaded evaluation of genomes for decent speed.
 
 ## DISCLAIMER - please read!
 
